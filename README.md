@@ -13,15 +13,14 @@ Use this tracker to report:
 - Feature requests and product improvements
 - Data quality issues or incorrect identification
 - UX friction or confusing flows
-
+- Account support
+- Billing or payment issues
 Issues submitted through the Sortalizer feedback form are automatically posted here.
 
 ## What this tracker is not for
 
 Do not use this tracker for:
 
-- Account support
-- Billing or payment issues
 - Personal data, private information, or credentials
 - Time-sensitive support requests
 
